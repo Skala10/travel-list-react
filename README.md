@@ -11,7 +11,8 @@ https://skala10.github.io/travel-list-react/
 
 - Feature 1: add/delete item
 - Feature 2: move to competed list
-- Feature 3: sorting function
+- Feature 3: clear all function
+- Feature 4: sorting function
 
 
 ## Technologies
