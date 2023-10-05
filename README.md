@@ -19,5 +19,5 @@ https://skala10.github.io/travel-list-react/
 
 List of technologies used in the project:
 
-- React JS
+- React JS (useState and state management)
 - CSS
